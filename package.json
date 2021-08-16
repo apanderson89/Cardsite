@@ -1,0 +1,26 @@
+{
+  "name": "card-site",
+  "version": "1.0.0",
+  "description": "Card Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apanderson89/Cardsite.git"
+  },
+  "author": "Andrew Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apanderson89/Cardsite/issues"
+  },
+  "homepage": "https://github.com/apanderson89/Cardsite#readme",
+  "keywords": [
+    "Card",
+    "Site",
+    "Price",
+    "Look",
+    "Up"
+  ]
+}
